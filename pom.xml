@@ -13,7 +13,7 @@
 	<artifactId>spring-boot-mongo-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-mongo-example</name>
-	<description>Shared code editor</description>
+	<description>Spring boot mongo example</description>
 
 	<properties>
 		<java.version>14</java.version>
